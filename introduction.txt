@@ -1,5 +1,5 @@
  Brief Introduction About Myself 
- My name is Gideon Otieno, and I’m a passionate and self-motivated tech enthusiast
+ My name is Gideon Otieno, and I’m a passionate and self-motivated tech enthusiast 
  from Kenya with a growing interest in data science, software development, and digital empowerment. 
  I completed my KCSE in 2022 and chose to pursue a certificate in data science to build practical, 
  in-demand skills while navigating financial limitations. I enjoy working on hands-on projects—recently

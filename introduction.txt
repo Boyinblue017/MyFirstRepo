@@ -1,0 +1,11 @@
+ Brief Introduction About Myself 
+ My name is Gideon Otieno, and I’m a passionate and self-motivated tech enthusiast
+ from Kenya with a growing interest in data science, software development, and digital empowerment. 
+ I completed my KCSE in 2022 and chose to pursue a certificate in data science to build practical, 
+ in-demand skills while navigating financial limitations. I enjoy working on hands-on projects—recently
+ developing a smart gallery app and a 2D alien shooter game in Python—as a way to blend creativity with technology.
+
+Beyond coding, I’m also dedicated to youth empowerment, especially in education and mental health. 
+I’m currently involved in building a platform aimed at empowering women through education
+and have also applied for opportunities like the Shamiri Fellowship to support mental wellness in schools. 
+I believe in using tech not just to build tools, but to solve real-world problems and create meaningful impact.
